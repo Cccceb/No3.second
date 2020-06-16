@@ -1,0 +1,20 @@
+﻿  mylexer.cpp
+  myparser.cpp
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(291,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(710,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(719,19): warning C4018: “>”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(731,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(879,19): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(940,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(950,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(963,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(966,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(984,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(988,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(1058,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(1067,20): warning C4018: “>”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(1079,19): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(1080,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(1133,19): warning C4018: “<”: 有符号/无符号不匹配
+E:\VistualStudioRepo\repos\BYYL\BYYL\myparser.y(1134,20): warning C4018: “<”: 有符号/无符号不匹配
+  BYYL.vcxproj -> E:\VistualStudioRepo\repos\BYYL\Debug\BYYL.exe
